@@ -1,0 +1,28 @@
+{
+  "name": "CloverNode",
+  "version": "0.0.0",
+  "description": "CloverETL API Wrapper Written in NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thostetler/CloverNode.git"
+  },
+  "keywords": [
+    "Node",
+    "CloverETL",
+    "Clover"
+  ],
+  "author": "Tim Hostetler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thostetler/CloverNode/issues"
+  },
+  "homepage": "https://github.com/thostetler/CloverNode",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "request": "^2.61.0"
+  }
+}
