@@ -188,7 +188,7 @@ var format = cloverServer.dates.getDateFormat();
 var format = cloverServer.dates.getDateObject();
 ```
 
-`clover-node` uses `momentjs` for date parsing and manipulation.
+`node-clover` uses `momentjs` for date parsing and manipulation.
 
 
 
